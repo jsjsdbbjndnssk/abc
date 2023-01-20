@@ -5,7 +5,7 @@
 body {
   color: #2b2c48;
   font-family: "Jost", sans-serif;
-  background-image: src="3080b6922c1d29cf.jpg"
+  background-image: url(3080b6922c1d29cf.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
